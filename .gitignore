@@ -1,0 +1,99 @@
+# Compiled source
+*.dll
+*.exe
+*.so
+*.dylib
+*.pdb
+*.cache
+*.ilk
+*.obj
+*.log
+*.csv
+*.user
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Auto-generated files
+generated/
+generated-sources/
+generated-sources/*
+
+# Compiled DLL and executable files
+*.dll
+*.exe
+*.out
+*.app
+
+# VS Code directories
+.vscode/
+.vscode/*
+!.vscode/tasks.json
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Build directories
+bin/
+obj/
+out/
+AppPackages/
+PublishProfiles/
+
+# Rider directories
+.idea/
+.idea/*
+
+# Visual Studio files
+.vs/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# DotNet test results
+TestResults/
+*.TestResults/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# DotNet user files
+*.dotsettings
+*.dotsettings.user
+
+# Resharper files
+_ReSharper.Caches/
+_ReSharper*/ 
+
+# Azure Function artifacts
+.local.settings.json
+
+# Local History for JetBrains IDEs
+.idea/.idea.LocalHistory
+
+# Rider files
+.idea/*
+!.idea/workspace.xml
+.idea/modules.xml
+
+# ASP.NET temporary files
+.aspnet/
